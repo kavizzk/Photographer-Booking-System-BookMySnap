@@ -89,6 +89,7 @@ Email.js
 Kavitha S
 B.Tech-Artificial Intelligence and Data Science
 Nandha Engineering College-Autonomous
-GitHub: @YourGitHubUsername
+GitHub: @kavizzk
+
 
 ✨ “Capture memories, book with ease.” – BookMySnap
